@@ -1,0 +1,6 @@
+Oregon,Kafe,Chalet,Border
+Bank,Clubhouse,Skyscraper,Consulate
+Chalet,Oregon,Kafe,Bank
+Nighthaven,Bank,Consulate,Oregon
+Skyscraper,Chalet,Oregon,Kafe
+Oregon,Bank,Nighthaven,Consulate
